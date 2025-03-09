@@ -2,7 +2,7 @@ using something
 
 script something: something
 {
-
+int i = 106;
 
 
 
